@@ -2,3 +2,4 @@
 /food-classification
 /last_model.pth
 /best_model_weights.pth
+/ssl-last_model.pth
