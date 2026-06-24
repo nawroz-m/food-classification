@@ -1,6 +1,3 @@
 .venv
 /food-classification
-/last_model.pth
-/best_model_weights.pth
-/ssl-last_model.pth
-/rotaion_0_last_model.pth
+/models
